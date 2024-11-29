@@ -1,0 +1,11 @@
+/Users/lamarg/BlazorApp/ClientLibrary/bin/Debug/net9.0/ClientLibrary.deps.json
+/Users/lamarg/BlazorApp/ClientLibrary/bin/Debug/net9.0/ClientLibrary.dll
+/Users/lamarg/BlazorApp/ClientLibrary/bin/Debug/net9.0/ClientLibrary.pdb
+/Users/lamarg/BlazorApp/ClientLibrary/obj/Debug/net9.0/ClientLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lamarg/BlazorApp/ClientLibrary/obj/Debug/net9.0/ClientLibrary.AssemblyInfoInputs.cache
+/Users/lamarg/BlazorApp/ClientLibrary/obj/Debug/net9.0/ClientLibrary.AssemblyInfo.cs
+/Users/lamarg/BlazorApp/ClientLibrary/obj/Debug/net9.0/ClientLibrary.csproj.CoreCompileInputs.cache
+/Users/lamarg/BlazorApp/ClientLibrary/obj/Debug/net9.0/ClientLibrary.dll
+/Users/lamarg/BlazorApp/ClientLibrary/obj/Debug/net9.0/refint/ClientLibrary.dll
+/Users/lamarg/BlazorApp/ClientLibrary/obj/Debug/net9.0/ClientLibrary.pdb
+/Users/lamarg/BlazorApp/ClientLibrary/obj/Debug/net9.0/ref/ClientLibrary.dll

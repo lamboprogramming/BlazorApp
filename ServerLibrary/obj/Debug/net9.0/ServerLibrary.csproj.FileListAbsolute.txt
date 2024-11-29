@@ -1,0 +1,17 @@
+/Users/lamarg/BlazorApp/ServerLibrary/bin/Debug/net9.0/ServerLibrary.deps.json
+/Users/lamarg/BlazorApp/ServerLibrary/bin/Debug/net9.0/ServerLibrary.runtimeconfig.json
+/Users/lamarg/BlazorApp/ServerLibrary/bin/Debug/net9.0/ServerLibrary.dll
+/Users/lamarg/BlazorApp/ServerLibrary/bin/Debug/net9.0/ServerLibrary.pdb
+/Users/lamarg/BlazorApp/ServerLibrary/bin/Debug/net9.0/BaseLibrary.dll
+/Users/lamarg/BlazorApp/ServerLibrary/bin/Debug/net9.0/BaseLibrary.pdb
+/Users/lamarg/BlazorApp/ServerLibrary/obj/Debug/net9.0/ServerLibrary.csproj.AssemblyReference.cache
+/Users/lamarg/BlazorApp/ServerLibrary/obj/Debug/net9.0/ServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lamarg/BlazorApp/ServerLibrary/obj/Debug/net9.0/ServerLibrary.AssemblyInfoInputs.cache
+/Users/lamarg/BlazorApp/ServerLibrary/obj/Debug/net9.0/ServerLibrary.AssemblyInfo.cs
+/Users/lamarg/BlazorApp/ServerLibrary/obj/Debug/net9.0/ServerLibrary.csproj.CoreCompileInputs.cache
+/Users/lamarg/BlazorApp/ServerLibrary/obj/Debug/net9.0/ServerLi.AF94C59E.Up2Date
+/Users/lamarg/BlazorApp/ServerLibrary/obj/Debug/net9.0/ServerLibrary.dll
+/Users/lamarg/BlazorApp/ServerLibrary/obj/Debug/net9.0/refint/ServerLibrary.dll
+/Users/lamarg/BlazorApp/ServerLibrary/obj/Debug/net9.0/ServerLibrary.pdb
+/Users/lamarg/BlazorApp/ServerLibrary/obj/Debug/net9.0/ServerLibrary.genruntimeconfig.cache
+/Users/lamarg/BlazorApp/ServerLibrary/obj/Debug/net9.0/ref/ServerLibrary.dll

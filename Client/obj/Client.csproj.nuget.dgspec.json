@@ -1,0 +1,236 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/lamarg/BlazorApp/Client/Client.csproj": {}
+  },
+  "projects": {
+    "/Users/lamarg/BlazorApp/BaseLibrary/BaseLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lamarg/BlazorApp/BaseLibrary/BaseLibrary.csproj",
+        "projectName": "BaseLibrary",
+        "projectPath": "/Users/lamarg/BlazorApp/BaseLibrary/BaseLibrary.csproj",
+        "packagesPath": "/Users/lamarg/.nuget/packages/",
+        "outputPath": "/Users/lamarg/BlazorApp/BaseLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lamarg/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lamarg/BlazorApp/Client/Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lamarg/BlazorApp/Client/Client.csproj",
+        "projectName": "Client",
+        "projectPath": "/Users/lamarg/BlazorApp/Client/Client.csproj",
+        "packagesPath": "/Users/lamarg/.nuget/packages/",
+        "outputPath": "/Users/lamarg/BlazorApp/Client/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lamarg/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/lamarg/BlazorApp/BaseLibrary/BaseLibrary.csproj": {
+                "projectPath": "/Users/lamarg/BlazorApp/BaseLibrary/BaseLibrary.csproj"
+              },
+              "/Users/lamarg/BlazorApp/ClientLibrary/ClientLibrary.csproj": {
+                "projectPath": "/Users/lamarg/BlazorApp/ClientLibrary/ClientLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.Sdk.WebAssembly.Pack": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[9.0.0, 9.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/lamarg/BlazorApp/ClientLibrary/ClientLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lamarg/BlazorApp/ClientLibrary/ClientLibrary.csproj",
+        "projectName": "ClientLibrary",
+        "projectPath": "/Users/lamarg/BlazorApp/ClientLibrary/ClientLibrary.csproj",
+        "packagesPath": "/Users/lamarg/.nuget/packages/",
+        "outputPath": "/Users/lamarg/BlazorApp/ClientLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lamarg/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/lamarg/BlazorApp/BaseLibrary/BaseLibrary.csproj": {
+                "projectPath": "/Users/lamarg/BlazorApp/BaseLibrary/BaseLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

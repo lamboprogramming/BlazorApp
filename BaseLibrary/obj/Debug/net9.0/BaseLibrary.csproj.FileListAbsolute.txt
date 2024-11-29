@@ -1,0 +1,12 @@
+/Users/lamarg/BlazorApp/BaseLibrary/bin/Debug/net9.0/BaseLibrary.deps.json
+/Users/lamarg/BlazorApp/BaseLibrary/bin/Debug/net9.0/BaseLibrary.dll
+/Users/lamarg/BlazorApp/BaseLibrary/bin/Debug/net9.0/BaseLibrary.pdb
+/Users/lamarg/BlazorApp/BaseLibrary/obj/Debug/net9.0/BaseLibrary.csproj.AssemblyReference.cache
+/Users/lamarg/BlazorApp/BaseLibrary/obj/Debug/net9.0/BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lamarg/BlazorApp/BaseLibrary/obj/Debug/net9.0/BaseLibrary.AssemblyInfoInputs.cache
+/Users/lamarg/BlazorApp/BaseLibrary/obj/Debug/net9.0/BaseLibrary.AssemblyInfo.cs
+/Users/lamarg/BlazorApp/BaseLibrary/obj/Debug/net9.0/BaseLibrary.csproj.CoreCompileInputs.cache
+/Users/lamarg/BlazorApp/BaseLibrary/obj/Debug/net9.0/BaseLibrary.dll
+/Users/lamarg/BlazorApp/BaseLibrary/obj/Debug/net9.0/refint/BaseLibrary.dll
+/Users/lamarg/BlazorApp/BaseLibrary/obj/Debug/net9.0/BaseLibrary.pdb
+/Users/lamarg/BlazorApp/BaseLibrary/obj/Debug/net9.0/ref/BaseLibrary.dll
